@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hw3.dir/priorityqueue.cpp.o CMakeFiles/hw3.dir/buildheap.cxx.o CMakeFiles/hw3.dir/createteams.cxx.o CMakeFiles/hw3.dir/teamdata.cpp.o  -o hw3 

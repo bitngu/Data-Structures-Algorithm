@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 36/Homework/Programming/hw4/Prompt/AVL.cpp
+AVL.h
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 36/Homework/Programming/hw4/Prompt/AVL.h
+
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 36/Homework/Programming/hw4/Prompt/AVL.h
+fstream
+-
+iostream
+-
+BST.h
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 36/Homework/Programming/hw4/Prompt/BST.h
+json.hpp
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 36/Homework/Programming/hw4/Prompt/json.hpp
+
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 36/Homework/Programming/hw4/Prompt/BST.h
+memory
+-
+string
+-
+json.hpp
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 36/Homework/Programming/hw4/Prompt/json.hpp
+
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 36/Homework/Programming/hw4/Prompt/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+ciso646
+-
+clocale
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iosfwd
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+string
+-
+type_traits
+-
+utility
+-
+valarray
+-
+vector
+-
+

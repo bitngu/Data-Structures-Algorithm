@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 34/Programming Homework/hw5/graph.cpp
+graph.hpp
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 34/Programming Homework/hw5/graph.hpp
+
+/Users/bitnguyen/Desktop/UCDavis/Fall 2020/ECS 34/Programming Homework/hw5/graph.hpp
+string
+-
+vector
+-
+fstream
+-
+unordered_set
+-
+unordered_map
+-
+queue
+-
+iostream
+-
+queue
+-
+map
+-
+stack
+-
+

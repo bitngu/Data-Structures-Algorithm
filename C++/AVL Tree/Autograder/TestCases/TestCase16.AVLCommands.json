@@ -1,0 +1,29 @@
+{
+  "0001": {
+    "key": 2,
+    "operation": "Insert"
+  },
+  "0002": {
+    "key": 3,
+    "operation": "Insert"
+  },
+  "0003": {
+    "key": 6,
+    "operation": "Insert"
+  },
+  "0004": {
+    "key": 5,
+    "operation": "Insert"
+  },
+  "0005": {
+    "key": 4,
+    "operation": "Insert"
+  },
+  "0006": {
+    "key": 8,
+    "operation": "Insert"
+  },
+  "metadata": {
+    "numOps": 1000
+  }
+}
